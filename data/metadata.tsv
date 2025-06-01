@@ -1,0 +1,11 @@
+id	parkinson_disease	sex	age	bmi	stool_travel_time	location	anticholinergic	carbidopa_levodopa	comt_inhibitor	p3m_antibiotics_bool	p3m_constipation	fruits_or_vegetables	grains
+ERR1513684	Yes	male	58.0	25.33	6.0	Atlanta, GA	N	Y	N	Yes	Yes	At least once a day	At least once a day
+ERR1513701	Yes	male	78.0	18.99	2.0	Atlanta, GA	N	Y	N	No	No	Few times a week	At least once a day
+ERR1513703	Yes	female	53.0	27.92	4.0	Atlanta, GA	N	Y	N	Yes	No	At least once a day	At least once a day
+ERR1513777	No	female	62.0	22.96	1.0	Albany, NY	N	N	N	No	No	At least once a day	At least once a day
+ERR1513870	Yes	male	70.0	25.68	8.0	Seattle, WA	N	Y	N	Yes	Yes	Few times a week	At least once a day
+ERR1513889	Yes	male	78.0	30.51	3.0	Seattle, WA	N	Y	N	No	No	At least once a day	Few times a week
+ERR1513961	No	female	67.0	24.48	2.0	Seattle, WA	N	N	N	Yes	No	At least once a day	At least once a day
+ERR1513964	No	female	69.0	33.47	4.0	Seattle, WA	N	N	N	No	No	At least once a day	Few times a week
+ERR1513983	No	female	72.0	25.84	2.0	Seattle, WA	N	N	N	No	No	At least once a day	At least once a day
+ERR1514003	No	male	63.0	31.29	3.0	Seattle, WA	N	N	N	No	No	At least once a day	At least once a day
